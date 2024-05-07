@@ -1,7 +1,7 @@
 # ![AskVerse]()
   
 
-AskVerse is a web application inspired by platforms like Quora, designed to facilitate knowledge sharing and community interaction. Built using MySQL, Node.js, and Express.js, AskVerse provides users with a platform to ask questions, share knowledge, and engage in discussions on various topics.
+AskVerse is a web application, designed to facilitate knowledge sharing and community interaction. Built using MySQL, Node.js, and Express.js, AskVerse provides users with a platform to ask questions, share knowledge, and engage in discussions on various topics.
 
 ## Features
 
